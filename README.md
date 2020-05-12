@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Striso Documentation
 
-You can use the [editor on GitHub](https://github.com/striso/striso-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you will find the official documentation of the Striso board, which are planned to be written in the coming months. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Striso board production is currently being funded at [Kickstarter](https://www.kickstarter.com/projects/striso/striso-board).
+More information about the Striso instruments can be found on www.striso.org.
 
-### Markdown
+User contributed documentation is available on the [wiki](https://github.com/striso/striso-docs/wiki), and can be edited by everyone who wants to contribute.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Striso board
 
-```markdown
-Syntax highlighted code block
+### Contents
 
-# Header 1
-## Header 2
-### Header 3
+- Getting started
+- Note Layout
+- Interactive chords and scales visualizer
+- Configuration
+- MIDI messages
+- Updating firmware
+- ...
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/striso/striso-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
